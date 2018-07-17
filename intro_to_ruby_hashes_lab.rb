@@ -11,7 +11,7 @@ def actor
 end
 
 def monopoly(key, value)
-	monopoly[key] = value
+	monopoly[:key] = value
 
 end
 
