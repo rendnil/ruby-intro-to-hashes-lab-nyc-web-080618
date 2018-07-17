@@ -10,8 +10,8 @@ def actor
 
 end
 
-def monopoly(key, value= {})
-	monopoly[:key] = value
+def monopoly(key)
+	monopoly[:key] = { }
 
 end
 
